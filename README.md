@@ -39,37 +39,25 @@ This system is used by:
 
 - **Customers**:
 
-Customers of Little Lemon Restaurant who prefer the convenience of ordering food through a mobile application. It caters to individuals who want a pleasant and user-friendly experience while browsing the restaurant's menu, customizing their orders, and placing takeout orders. The app is designed to enhance the overall dining experience by providing an intuitive interface for navigating through different sections, sorting and filtering menu items, and seamlessly completing the food ordering process. It aims to attract and retain customers who seek a modern and convenient way of ordering food from the restaurant.
+Customers of Little Lemon Restaurant prefer the convenience of ordering food through a mobile application. It caters to individuals who want a pleasant and user-friendly experience while browsing the restaurant's menu, customizing their orders, and placing takeout orders. The app enhances the dining experience by providing an intuitive interface for navigating different sections, sorting and filtering menu items, and seamlessly completing the food ordering process. It aims to attract and retain customers who seek a modern and convenient way of ordering food from the restaurant.
 
 
 ## Features
 
-- The app is a Mediterranean restaurant app, showcasing a modern twist on traditional recipes.
-- It has a visually appealing home screen with a hero section displaying an image and descriptive text.
-- The menu section displays a list of menu items fetched from a database.
-- Each menu item includes an image, title, price, and description.
-- Users can search for specific menu items using a search functionality.
-- The app uses Jetpack Compose for building the UI, providing a modern and declarative approach to UI development.
-- It follows the MVVM architecture pattern, separating the data, view, and business logic.
-- Navigation between screens is handled using the Navigation component.
-- The app integrates with external libraries like Coil for efficient image loading and caching.
-- It leverages Kotlin's serialization library for decoding JSON files.
-- The app demonstrates the use of state management and observables to update the UI dynamically.
+The app is a Mediterranean restaurant application with a modern twist on traditional recipes. It features a visually attractive home screen with a hero section that displays an image and descriptive text. The menu section exhibits a list of items fetched from a database. Each menu item comprises an image, title, price, and description. The app provides users with a quick search functionality to find specific menu items. It uses Jetpack Compose to build the user interface, which provides a modern and declarative approach to UI development. The app follows the MVVM architectural pattern, which separates data, view, and business logic. The Navigation component handles navigation between screens. The app integrates with external libraries like Coil to load and cache images efficiently. It uses Kotlin's serialization library for decoding JSON files. The app showcases the usage of state management and observables to update the UI dynamically.
 ## Run Locally
 
 ## Lessons Learned
-**What did you learn while building this project? What challenges did you face and how did you overcome them?**
+**What did you learn while building this project? What challenges did you face, and how did you overcome them?**
 
 As I developed my project using Kotlin and Jetpack Compose, I encountered various challenges and gained valuable experience that helped me improve my skills. 
 
-- Developed a practical mobile application, using Android technologies, as the Capstone Project in the Android Developer Program.
-- Addressed the major problem of declining takeout orders for Little Lemon Restaurant by creating a user-friendly mobile app.
-- Implemented intuitive navigation and customizability, utilizing Jetpack Compose for UI and navigation components.
-- Considered component layouts and data sources, incorporating Room database for data storage and retrieval.
-- Completed a three-module course that covered project setup, UX/UI principles, wireframing, and app functionality, leveraging the Android development ecosystem.
-- Designed an onboarding process and a navigational flow, employing Material Design guidelines and principles.
-- Implemented a food ordering process with sorting and filtering capabilities for menu items, integrating network data fetching using Ktor HTTP client library.
-- Conducted self and peer reviews, evaluating app features and design patterns, following the best practices of modern Android development.
-- Concluded the project with a graded assessment, demonstrating comprehension and application of Kotlin programming language and Android development concepts.
-- Explored the process submitting the app for publication in the Play Store or App Store, utilizing the necessary publishing guidelines and processes.
-- Engaged in end-to-end mobile application development, gaining valuable experience and expertise in Android technologies, Jetpack Compose, Room database, and Ktor HTTP client.
+I developed a practical mobile application using Android technologies as part of the Android Developer Program. The application was the Capstone Project for the course. The central problem was the declining takeout orders for Little Lemon Restaurant. To solve this, I created a user-friendly mobile app that addressed the issues of menu navigation and ordering. 
+
+I implemented intuitive navigation and customizability to achieve this, using Jetpack Compose for UI and navigation components. I also considered component layouts and data sources, using the Room database for storage and retrieval. During the course, I completed a three-module program that covered project setup, UX/UI principles, wireframing, and app functionality. 
+
+To enhance the user experience, I designed an onboarding process and navigational flow. I employed Material Design guidelines and principles throughout the app. The app included a food ordering process with sorting and filtering capabilities for menu items. I integrated network data fetching using the Ktor HTTP client library.
+
+To ensure high-quality development, I conducted self and peer reviews, evaluating app features and design patterns, following the best practices of modern Android development. I concluded the project with a graded assessment demonstrating my comprehension and application of Kotlin programming language and Android development concepts.
+
+I also learned about submitting the app for publication in the Play Store or App Store, utilizing the necessary publishing guidelines and processes. This project gave me valuable experience and expertise in Android technologies, Jetpack Compose, Room database, and Ktor HTTP client.
