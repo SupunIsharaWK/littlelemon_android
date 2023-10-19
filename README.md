@@ -39,7 +39,7 @@ This system is used by:
 
 - **Customers**:
 
-Customers of Little Lemon Restaurant prefer the convenience of ordering food through a mobile application. It caters to individuals who want a pleasant and user-friendly experience while browsing the restaurant's menu, customizing their orders, and placing takeout orders. The app enhances the dining experience by providing an intuitive interface for navigating different sections, sorting and filtering menu items, and seamlessly completing the food ordering process. It aims to attract and retain customers who seek a modern and convenient way of ordering food from the restaurant.
+The customers of Little Lemon Restaurant prefer to order their food through a mobile application for its convenience. The app is designed to provide a pleasant and user-friendly experience, enabling individuals to easily browse the restaurant's menu, customize their orders, and place takeout orders. It enhances the dining experience by providing an intuitive interface for navigating different sections, sorting and filtering menu items, and seamlessly completing the food ordering process. The primary aim of the app is to attract and retain customers who prefer a modern and convenient way of ordering food from the restaurant.
 
 
 ## Features
