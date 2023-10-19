@@ -6,7 +6,7 @@ This is the ANDROID App Capstone Project of the Meta ANDROID Developer Professio
 
 ## Authors
 
-- [@eliehanna2](https://www.github.com/eliehanna2)
+- [SupunIsharaWK](https://github.com/SupunIsharaWK)
 
 
 
@@ -56,23 +56,6 @@ Customers of Little Lemon Restaurant who prefer the convenience of ordering food
 - It leverages Kotlin's serialization library for decoding JSON files.
 - The app demonstrates the use of state management and observables to update the UI dynamically.
 ## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory in Android Studio
-
-```bash
-  cd little-lemon
-```
-
-Add dependencies to gradle.build file
-
-Build and Run on the emulator / physical device
-
 
 ## Lessons Learned
 **What did you learn while building this project? What challenges did you face and how did you overcome them?**
